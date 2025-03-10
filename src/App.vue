@@ -1,8 +1,9 @@
 <script setup>
+import FrontWheel from "@/components/FrontWheel.vue";
 
 </script>
 
 <template>
-  <h1>hello vue</h1>
-
+  <FrontWheel>
+  </FrontWheel>
 </template>
